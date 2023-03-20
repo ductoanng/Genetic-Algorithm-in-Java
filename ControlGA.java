@@ -25,7 +25,7 @@ public class ControlGA extends JFrame implements ActionListener
     DrawGraph maxPanel,avePanel;
 
 
-  
+    // constructor
     public  ControlGA () {  
     	setSize(1100, 650);
 		setTitle("Genetic Algorithm");
